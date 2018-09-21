@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "651299760200",
+    "firebase_url": "https://mobiotic-bd60c.firebaseio.com",
+    "project_id": "mobiotic-bd60c",
+    "storage_bucket": "mobiotic-bd60c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651299760200:android:d5f06d0d9756a5d1",
+        "android_client_info": {
+          "package_name": "com.example.mobiotic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651299760200-ffcgl4ccu5p3k5s505bd255vmi4rc9h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobiotic",
+            "certificate_hash": "a28ca3db9871974fb3ad9a36b61a6e5f6455f713"
+          }
+        },
+        {
+          "client_id": "651299760200-2mhpe7ii3g8355g2j7kvr3i6s0c5lol0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpq8Ao-RrUORJemOB5cKm1abkLIWU24Ts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651299760200-2mhpe7ii3g8355g2j7kvr3i6s0c5lol0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

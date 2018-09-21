@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mobiotic</string>
+    <string name="google">Google</string>
+    <string name="sign_in">Sign In</string>
+    <string name="GOOGLE_API_KEY">AIzaSyD1bsc5InC0wzAZxZgrKhPJyzp4DV5gV6U</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="sign_in_error">Sign in error</string>
+    <string name="play_service_error">Play services</string>
+    <string name="unable_to_sign">Unable to sign in</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="transition_image">drawable</string>
+    <string name="transition_title">message</string>
+    <string name="server_connections_problem_try_again">Server Connection Error</string>
+    <string name="related">Related...</string>
+    <string name="decription">decription</string>
+</resources>
